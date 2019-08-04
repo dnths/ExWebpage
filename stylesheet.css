@@ -1,0 +1,16 @@
+/* basis set part */
+#ContMainframe {width: 800px; border: 3px solid black; margin: 20px auto;}
+a {color: black; font: bold 17px 'helvetica neue'; text-decoration: none;}
+a:hover {color: gray;}
+
+/* head part */
+.HeadLogo {text-align: center; padding: auto;}
+.MainMenulist {border-top: 1px solid black; border-bottom: 1px solid black;}
+.MainMenulist ul {text-align: center; list-style: none; height: 20px; margin: 10px; padding: 0;}
+.MainMenulist ul li {list-style: none; display: inline; padding: 0 40px;}
+
+/* main article part */
+.ArticleFr {width: 700px; margin: 10px auto; text-align: justify;}
+
+/* footer part */
+.footer {text-align: center; color}
